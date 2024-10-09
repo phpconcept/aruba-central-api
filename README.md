@@ -1,2 +1,26 @@
-# aruba-central-api
-PHP Library to management Aruba Central API
+# Aruba Central API Library
+
+PHP library to manage Aruba Central API and access available data.
+The library is managing the access management process (access token, refresh token, ...) and offer generic API functions and more targetted API functions.
+
+
+---
+
+
+## Change Logs
+
+Release v0.1 :
+- Initial release
+
+
+---
+
+## WARNING :
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ SOFTWARE.
+
