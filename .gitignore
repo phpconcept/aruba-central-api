@@ -1,0 +1,19 @@
+# ----- Ignore everything
+/*
+
+# ----- Files to ignore
+*.lock
+
+# ----- Folders to ignore
+#/vendor
+
+# ----- Files to accept
+!README.md
+!LICENSE
+!.gitignore
+!*.ppr
+
+# ----- Folders to add
+!/class
+!/sample
+!/doc
