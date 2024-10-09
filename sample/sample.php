@@ -15,12 +15,12 @@
   $v_central->init(['log_level'=>'error,debug',
                     'pin_code'=>'my_secret_key', 
                     'save_mode'=>'file',
-                    'save_filename'=>dirname(__FILE__).'/aca_central_tokens.json']);
+                    'save_filename'=>dirname(__FILE__).'/aca_central.tokens']);
   
   /*
   $v_central->init(['pin_code'=>'my_secret_key', 
                     'save_mode'=>'file',
-                    'save_filename'=>dirname(__FILE__).'/aca_central_tokens.json',
+                    'save_filename'=>dirname(__FILE__).'/aca_central.tokens',
                     'refresh_token'=>'eRjRlBwrFVXZnuX0c0nxIjYBYYczB551',
                     'client_id'=>'1Yc3XGMgo2skhg87VjEg2AGIVOG4Hrbz',
                     'client_secret'=>'MO84ui3nGaq89uZQRhjWGdujFW9HcImD']);
