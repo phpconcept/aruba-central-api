@@ -3,6 +3,7 @@
 
 # ----- Files to ignore
 *.lock
+*.ppr
 
 # ----- Folders to ignore
 #/vendor
@@ -11,7 +12,6 @@
 !README.md
 !LICENSE
 !.gitignore
-!*.ppr
 
 # ----- Folders to add
 !/class
